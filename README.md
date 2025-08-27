@@ -20,6 +20,12 @@ MCA (Software Engineering) Student | 💻 Learning C++ & MERN Stack
 
 ---
 
+## 📊 GitHub Stats
+![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipvineet&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipvineet&layout=compact&theme=default)
+
+---
+
 ## 📌 Featured Projects
 Here are some projects I’ve built while learning:  
 

@@ -38,5 +38,5 @@ Currently focused on:
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https//linkedin.com/in/vipvineet)  
+- [LinkedIn](https://linkedin.com/in/vipvineet)  
 - 📧 Email: vineet252002@gmail.com 
